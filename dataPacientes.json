@@ -1,0 +1,27 @@
+[
+    {
+        "pacientes": [
+            {
+                "nombre": "exe",
+                "Apellido": "mayuda",
+                "DNI": "123123",
+                "F.nacimiento": "1/12/1111",
+                "Nacionalidad": "arg"
+            },
+            {
+                "nombre": "hernan",
+                "Apellido": "maydana",
+                "DNI": "4177328",
+                "F.nacimiento": "1/22/2222",
+                "Nacionalidad": "arg"
+            },
+            {
+                "nombre": "exe",
+                "Apellido": "mayda",
+                "DNI": "123123",
+                "F.nacimiento": "12-22-2222",
+                "Nacionalidad": "arg"
+            }
+        ]
+    }
+]
